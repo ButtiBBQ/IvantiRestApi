@@ -63,7 +63,7 @@ Navigate to *C:\ProgramData\LANDesk\ServiceDesk\My.IdentityServer\IdentityServer
 
 ## Get access token
 
-Download the sample project *IvantiSampleRestApi* and use the IvantiRestController which handle the token authentication for you.
+Download the sample project *IvantiSampleRestApi* :star: and use the IvantiRestController which handle the token authentication for you.
 
 ```c#
 IvantiRestController controller =
